@@ -1,0 +1,84 @@
+Manifest-Version: 1.0
+Created-By: 1.0 (Android)
+
+Name: res/drawable-xxhdpi-v4/ic_launcher.png
+SHA1-Digest: ScXEoTYmwLiUp/VZoK21gI1yl1U=
+
+Name: res/drawable-mdpi-v4/ic_play_knopf.png
+SHA1-Digest: YQVm0IFQ5hfckIZ3MppOYGEj0+g=
+
+Name: resources.arsc
+SHA1-Digest: gXII72O/ZABI86uXTIm9uNu2l+s=
+
+Name: res/drawable-xxhdpi-v4/ic_play_knopf.png
+SHA1-Digest: 3CfvogtUtWUhu43cLzBp1Fs+0e4=
+
+Name: res/drawable-hdpi-v4/ic_launcher.png
+SHA1-Digest: WZGQ0wv68lBRao+Z41SW2jEBJGU=
+
+Name: res/drawable/westaflex.png
+SHA1-Digest: 0UhUzxS45zop6MDvWGasc5WIbBY=
+
+Name: res/drawable-mdpi-v4/ic_launcher.png
+SHA1-Digest: 9u8TP1vF5vHYTLTfH4nkKVjR/D0=
+
+Name: res/drawable/grey_buttons.xml
+SHA1-Digest: ogAFDFRK8lgXTrUBX+AyDJjxMa8=
+
+Name: AndroidManifest.xml
+SHA1-Digest: rmf8R+i/ZF5yMTnX2o0YpGD/Smk=
+
+Name: res/xml/user_settings.xml
+SHA1-Digest: tUE8oB7/+HpbQYaCVtANfMmsdQU=
+
+Name: res/layout/galleryitem_layout.xml
+SHA1-Digest: VIW8+BhYHli+oj7747akURtQD3k=
+
+Name: res/layout/kontact_activity_layout.xml
+SHA1-Digest: dpL2ASSKXGJv4Z8qR6YmpTWjAfA=
+
+Name: res/drawable-mdpi-v4/ic_bg_knopf.png
+SHA1-Digest: 2+HVDIabAXN6UkUVEHFKyp7F5/Y=
+
+Name: res/drawable-hdpi-v4/ic_bg_knopf.png
+SHA1-Digest: lac6Tkif2E/xzMQHdkYQngu9nqI=
+
+Name: res/drawable-xhdpi-v4/ic_bg_knopf.png
+SHA1-Digest: bpLZEyBoo3jF0dQE3aiDq1F1AGs=
+
+Name: res/layout/newsletter_activity_layout.xml
+SHA1-Digest: xGnRhIboy4bUbJ9PKhVA1qdYdqI=
+
+Name: classes.dex
+SHA1-Digest: EMMCdf7aHS8X+dXKY+jytjHyNqk=
+
+Name: res/drawable-xhdpi-v4/ic_play_knopf.png
+SHA1-Digest: hKV8cZ0AxnLNcm5QbMPSnpLV8Rk=
+
+Name: res/menu/main.xml
+SHA1-Digest: 0iI1ntChzWdYdKimA495zpSGb+g=
+
+Name: res/drawable-xhdpi-v4/ic_launcher.png
+SHA1-Digest: pFLP7P1lioNFRsi6XeYoNaPxLPA=
+
+Name: res/drawable/button_shape_grey.xml
+SHA1-Digest: D3FeDplQ8FLQMmcLDstYLWjkBFc=
+
+Name: res/drawable/button_shape_grey_pushed.xml
+SHA1-Digest: VsuwgWhl1eJlZ3BxZyrL5EA91vY=
+
+Name: res/drawable/feedback_label_bottom.xml
+SHA1-Digest: KRwOkI5KgeEQCNopGnHtHiXSYaY=
+
+Name: res/drawable/shape_gallery_background.xml
+SHA1-Digest: ELFlQlYN4sFRq9IqOC32Hr5xeEM=
+
+Name: res/drawable-hdpi-v4/ic_play_knopf.png
+SHA1-Digest: HA65qBD3FCnVlGCOvGSZNIOccRY=
+
+Name: res/layout/activity_main.xml
+SHA1-Digest: bghEFCfpNCC2JWPuQJafNdeRZQc=
+
+Name: res/drawable-xxhdpi-v4/ic_bg_knopf.png
+SHA1-Digest: gtaLpUO0uMR51WXPe1Dly7aqnZc=
+
